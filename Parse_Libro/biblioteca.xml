@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro>
+		<titulo>Introduction to Linux</titulo>
+		<anyo>2008</anyo>
+		<autor>
+		    <nombre>Machtelt</nombre> 
+		    <apellido>Garrels</apellido>		 
+		</autor>
+		<editor>O'Reilly</editor>
+		<paginas>256</paginas>
+	</libro>
+	<libro>
+		<titulo>El lenguaje de programación C</titulo>
+		<anyo>1991</anyo>
+		<autor>
+		    <nombre>Kernighan</nombre> 
+		    <apellido>Ritchie</apellido>
+		</autor>
+		<editor>Prentice Hall</editor>
+		<paginas>294</paginas>
+	</libro>
+</biblioteca>
